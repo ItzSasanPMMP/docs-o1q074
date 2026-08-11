@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-thl5bn.date-me.pro/sitemap.xml
